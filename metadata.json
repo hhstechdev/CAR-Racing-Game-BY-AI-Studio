@@ -1,0 +1,6 @@
+{
+  "name": "Apex Grand Prix 3D - Multiplayer Circuit Racing",
+  "description": "High-octane 3D multiplayer circuit racing game with real-time multiplayer, authentic racing circuits, dynamic physics, garage customization, and skill-based progression.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
